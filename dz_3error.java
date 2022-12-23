@@ -1,3 +1,4 @@
+import java.io.FileNotFoundException;
 import java.io.FileReader;
 
 public class dz_3error {
@@ -16,7 +17,11 @@ public class dz_3error {
     }
 
     public static void fileNotFoundException() {
-        FileReader reader = new FileReader("menyanet.txt");
+        try {
+            FileReader reader = new FileReader("menyanet.txt");
+        } catch (FileNotFoundException e) {
+            throw new RuntimeException(e);
+        }
     }
 
     public static void arrayIndexOutOfBoundsException(int[] c) {

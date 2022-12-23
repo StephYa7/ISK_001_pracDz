@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b7b7265-a1d9-44ed-8177-039e42dc9383" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ISK_001_Prac.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz_3error.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz_twoAarraySubtraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz_twoArrayDivision.java" afterDir="false" />
-    </list>
+    <list default="true" id="4b7b7265-a1d9-44ed-8177-039e42dc9383" name="Changes" comment="++ dz" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,6 +87,21 @@
       <option name="presentableId" value="Default" />
       <updated>1671654440110</updated>
     </task>
+    <task id="LOCAL-00001" summary="++ dz">
+      <created>1671792873188</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671792873188</updated>
+    </task>
+    <task id="LOCAL-00002" summary="++ dz">
+      <created>1671792895936</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671792895936</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,5 +114,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="++ dz" />
+    <option name="LAST_COMMIT_MESSAGE" value="++ dz" />
   </component>
 </project>

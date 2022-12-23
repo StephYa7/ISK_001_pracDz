@@ -9,10 +9,9 @@ public class dz_3error {
 
 
     public static void main(String[] args) {
-        int a = 9;
-        int b = 3;
+
         int[] c = {3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3};
-        stackOverflowError(a, b);
+        stackOverflowError(c[1], c[0]);
         fileNotFoundException();
         arrayIndexOutOfBoundsException(c);
     }

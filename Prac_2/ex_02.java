@@ -12,5 +12,4 @@ public class ex_02 {
     } catch ( ArithmeticException e) {
         System.out.println("Catching exception: " + e);
     }
-
 }}

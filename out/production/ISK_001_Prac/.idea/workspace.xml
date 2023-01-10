@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b7b7265-a1d9-44ed-8177-039e42dc9383" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ISK_001_Prac.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_002.java" afterDir="false" />
+    <list default="true" id="4b7b7265-a1d9-44ed-8177-039e42dc9383" name="Changes" comment="++ dz">
+      <change afterPath="$PROJECT_DIR$/Prac_2/ex_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +43,44 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
+  <component name="RunManager" selected="Application.dz_3error">
+    <configuration name="Task_002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task_002" />
+      <module name="ISK_001_Prac" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task_003" />
+      <module name="ISK_001_Prac" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dz_3error" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dz_3error" />
+      <module name="ISK_001_Prac" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dz_twoAarraySubtraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dz_twoAarraySubtraction" />
+      <module name="ISK_001_Prac" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.dz_3error" />
+        <item itemvalue="Application.dz_twoAarraySubtraction" />
+        <item itemvalue="Application.Task_003" />
+        <item itemvalue="Application.Task_002" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -59,6 +90,42 @@
       <option name="presentableId" value="Default" />
       <updated>1671654440110</updated>
     </task>
+    <task id="LOCAL-00001" summary="++ dz">
+      <created>1671792873188</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671792873188</updated>
+    </task>
+    <task id="LOCAL-00002" summary="++ dz">
+      <created>1671792895936</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671792895936</updated>
+    </task>
+    <task id="LOCAL-00003" summary="++ dz">
+      <created>1671793148420</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671793148420</updated>
+    </task>
+    <task id="LOCAL-00004" summary="++ dz">
+      <created>1671793251144</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671793251144</updated>
+    </task>
+    <task id="LOCAL-00005" summary="++ dz">
+      <created>1671794386186</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671794386186</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -71,5 +138,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="++ dz" />
+    <option name="LAST_COMMIT_MESSAGE" value="++ dz" />
   </component>
 </project>

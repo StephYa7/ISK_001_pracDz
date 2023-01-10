@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b7b7265-a1d9-44ed-8177-039e42dc9383" name="Changes" comment="++ dz">
-      <change beforePath="$PROJECT_DIR$/dz_3error.java" beforeDir="false" afterPath="$PROJECT_DIR$/dz_3error.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac_2/ex_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ISK_001_Prac/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ISK_001_Prac/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ISK_001_Prac/dz_3error.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ISK_001_Prac/dz_3error.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.dz_3error">
+  <component name="RunManager" selected="Application.ex_01">
     <configuration name="Task_002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task_002" />
       <module name="ISK_001_Prac" />
@@ -71,8 +74,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ex_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prac_2.ex_01" />
+      <module name="ISK_001_Prac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Prac_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ex_01" />
         <item itemvalue="Application.dz_3error" />
         <item itemvalue="Application.dz_twoAarraySubtraction" />
         <item itemvalue="Application.Task_003" />
@@ -117,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671793251144</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="++ dz">
+      <created>1671794386186</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671794386186</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

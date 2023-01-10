@@ -7,15 +7,12 @@ public class ex_04 {
     public static void main(String[] args) {
         System.out.println("Введите что либо:");
         Scanner scanner = new Scanner(System.in);
-        while (true) {
-            String inString = scanner.nextLine();
-            try {
-                Float inFloat = Float.parseFloat(inString);
-                System.out.println(inFloat);
-                break;
-            } catch (NumberFormatException e) {
-                System.out.println(inString + "Не является дробным числом");
+        String inputLine = scanner.nextLine();
+        while (true){
+            if(inputLine.isEmpty()){
+                System.out.println("Вы ничего не ввели.");
             }
+            inputLine = scanner.nextLine();
         }
     }
 }

@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b7b7265-a1d9-44ed-8177-039e42dc9383" name="Changes" comment="++ dz">
-      <change afterPath="$PROJECT_DIR$/Prac_2/ex_01.java" afterDir="false" />
+    <list default="true" id="4b7b7265-a1d9-44ed-8177-039e42dc9383" name="Changes" comment="+ ex_01">
+      <change afterPath="$PROJECT_DIR$/Prac_2/ex_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prac_2/ex_03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ISK_001_Prac/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ISK_001_Prac/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ISK_001_Prac/dz_3error.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ISK_001_Prac/dz_3error.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prac_2/ex_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Prac_2/ex_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prac_2/ex_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/Prac_2/ex_04.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +47,6 @@
   }
 }</component>
   <component name="RunManager" selected="Application.ex_01">
-    <configuration name="Task_002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task_002" />
-      <module name="ISK_001_Prac" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Task_003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task_003" />
       <module name="ISK_001_Prac" />
@@ -87,13 +81,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ex_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prac_2.ex_04" />
+      <module name="ISK_001_Prac" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Prac_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.ex_01" />
+        <item itemvalue="Application.ex_04" />
         <item itemvalue="Application.dz_3error" />
         <item itemvalue="Application.dz_twoAarraySubtraction" />
         <item itemvalue="Application.Task_003" />
-        <item itemvalue="Application.Task_002" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671794386186</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="+ ex_01">
+      <created>1673348353548</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673348353548</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,6 +171,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="++ dz" />
-    <option name="LAST_COMMIT_MESSAGE" value="++ dz" />
+    <MESSAGE value="+ ex_01" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ ex_01" />
   </component>
 </project>

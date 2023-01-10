@@ -11,10 +11,12 @@ public class ex_01 {
             String inString = scanner.nextLine();
             try {
                 Float inFloat = Float.parseFloat(inString);
+                if (inFloat % 1 > 0){
                 System.out.println(inFloat);
-                break;
+                break;}
+                else System.out.println(inString + " Не является дробным числом");
             } catch (NumberFormatException e) {
-                System.out.println(inString + "Не является дробным числом");
+                System.out.println(inString + " Не является дробным числом");
             }
         }
     }
